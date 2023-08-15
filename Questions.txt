@@ -1,0 +1,43 @@
+## Business Questions
+
+**Product Popularity Analysis:**<br>
+
+1.Which products are the top sellers based on the generated sales data?<br>
+Top selling products include Carnation Basket, Mixed Tulip Arrangement, Orchid Plant, White Lily Vase and Wildflower Jar.
+
+2.Are there specific products that consistently perform well throughout the year?<br>
+Carnation Basket, Orchid Plant, White Lily Vase are the products which sell well almost throughout the year. 
+
+**Customer Behavior Insights:**<br>
+
+3.What is the average number of products purchased per customer order?<br>
+A customer at bought 3.9 products at an average.
+
+**Sales Distribution by Time of Day:**<br>
+
+4.At what times of the day do customers most frequently make purchases?<br>
+Most orders are received at 20:55:00 and 17:54:10.
+
+5.Is there a particular time of day that sees higher sales activity?<br>
+Two noticeable time are 20:55:00 and 17:54:10. One marks the evening. The other marks the start of night/dinner time hence it does make sense e.g someone going on a dinner/date would buy flowers at that time.
+Secondly, In the evening, going back from the office, usually people buy flowers for their partners and parents.
+
+**Seasonal Discount Impact:**<br>
+
+6.How does the presence of holiday dates or special occasions affect sales?<br>
+Sales on Christmas Day are only 40 whilst Sales on New Years are less standing at 27. On a normal day, sales average at 39.
+
+
+**Customer Demographics Influence:**<br>
+
+7.Are there certain age groups that contribute more to sales compared to others?<br>
+Yes, age group of 50-60 contribute more to sales as compared to other age groups.
+Total Sales of age group 18-49: 60291
+Total Sales of age group 50-69: 54900
+The first four groups contribute only 60291 dollars of sales. Whilst the last two groups alone total to 54900 amount in sales.
+
+8.Do different age groups show preferences for specific products?<br>
+Age groups 18-25, 25-30, 40-50 have a similar purchase quantity but are lower compared to other age groups.<br>
+Age groups 50-69 have a high purchase volume compared to all other groups. Hence it can be said that a lot of the customers come from this age group.
+
+
