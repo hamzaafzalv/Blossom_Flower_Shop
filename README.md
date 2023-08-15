@@ -19,4 +19,5 @@ This project demonstrates the power of data analysis in uncovering actionable in
 Feel free to reach out to me at [hamza26afzal@gmail.com](mailto:hamza26afzal@gmail.com) for questions or collaboration opportunities.
 
 Disclaimer: The dataset was generated using ChatGPT hence can be assumed unrealistic and inaccurate.
-![Flower Shop](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPSJ-amVlDuM9qf08Z9fiezF03vR5gUO46_Q&usqp=CAU)
+<br>
+![Flower Shop](https://earlyhours.co.uk/wp-content/uploads/Millie-Mackintosh-Hugo-Taylor-Wedding-Flower-designs-Early-Hours-London-1-of-1.jpg)
